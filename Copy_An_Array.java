@@ -16,8 +16,7 @@ public class Copy_An_Array {
 		        myArray[6]= 70;
 		        myArray[7]= 80;
 		        myArray[8]= 90;
-		        myArray[9]= 100;
-		       	        
+		        myArray[9]= 100;       
 		        System.out.println(Arrays.toString(myArray));
 		        
 		        int[] myArray1 = new int[10];
